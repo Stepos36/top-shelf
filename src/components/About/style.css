@@ -1,0 +1,35 @@
+#about-us-block {
+    margin-bottom: 100px
+}
+.carousel-container {
+    max-width: 100%
+}
+.mission {
+    margin-top:14px;
+    height: 100vh;
+    border-top: 4px groove rgb(70,147,157);
+    border-bottom: 4px groove rgb(70,147,157);
+}
+@media only screen and (max-width: 1440px) {
+    
+}
+@media only screen and (max-width: 1024px) {
+    #about-us-block{
+       margin-bottom: 40px 
+    }
+}
+@media only screen and (max-width: 992px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 571px) {
+    
+}
+@media only screen and (max-width: 425px) {
+    .mission {
+        height: 1000px;
+        margin-bottom: none
+    }
+}

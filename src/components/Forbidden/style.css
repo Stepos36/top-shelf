@@ -1,0 +1,14 @@
+#forbidden-section ul {
+    list-style-type:disc
+}
+.forb_button button{
+   margin:5px
+}
+.forbidden-items {
+    background: url('./topbar.jpeg') !important;
+    transition: 0.4s ease-out;
+    border-radius: 5px
+}
+.forbidden-items:hover {
+    transform: translateY(-4px) scale(1.1);
+}

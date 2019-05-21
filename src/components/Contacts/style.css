@@ -1,0 +1,32 @@
+.lead {
+    padding: 15px
+}
+.contacts-header {
+    width: 100%
+}
+#contacts {
+    text-align: center
+}
+#contacts a:hover {
+    text-decoration: none
+}
+@media only screen and (max-width: 1440px) {
+    
+}
+@media only screen and (max-width: 1024px) {
+    
+}
+@media only screen and (max-width: 992px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 571px) {
+    .fa-icons {
+        margin-bottom: 25px
+    }
+}
+@media only screen and (max-width: 425px) {
+    
+}

@@ -1,0 +1,63 @@
+.explore a {
+    background: url('./img/topbar.jpeg') !important;
+    transition: 0.4s ease-out;
+    border-radius: 5px
+}
+.explore a:hover {
+    transform: translateY(-4px) scale(1.1);
+}
+#video1 {
+    position: absolute;
+    min-height: 100%;
+    max-width: 100%;
+    top: -250px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -100;
+}
+#home {
+    display: table;
+    color: white;
+    height: 100vh;
+    font-family: 'Black Ops One', cursive;
+    position: relative;
+    width:100%;
+    background-size:cover;
+    -webkit-background-size: cover;
+   -moz-background-size: cover;
+}
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle
+}
+.landing-text h1 {
+    font-size: 500%;
+    font-weight: 700
+}
+@media only screen and (max-width: 1440px) {
+    #video1 {
+        top: -156px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    #video1 {
+        top: 45px;
+    }
+    #home {
+        height: 107vh;
+    }
+}
+@media only screen and (max-width: 992px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 571px) {
+    
+}
+@media only screen and (max-width: 425px) {
+    
+}
