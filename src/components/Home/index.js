@@ -15,11 +15,11 @@ export class Home extends Component {
             <Media query="(max-width: 425px)">
           {matches =>
             matches ? (
-              <video playsinline muted loop id="video1" loop autoPlay>
+              <video playsInline muted loop id="video1" autoPlay>
                 <source src={process.env.PUBLIC_URL+"/video/container-video2.mp4"} type="video/mp4"/>
               </video>
             ) : (
-              <video muted loop id="video1" loop autoPlay>
+              <video muted loop id="video1" autoPlay>
                 <source src={process.env.PUBLIC_URL+"/video/container-ship1.mp4"} type="video/mp4"/>
               </video>
             )
