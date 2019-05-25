@@ -17,7 +17,7 @@ class App extends React.Component {
   return (
     <div className="App">
         <Navbar collapseOnSelect expand="lg" fixed="top">
-          <a href="#home" className="navbar-brand" onClick={() => scrollToComponent(this.Home, { offset: 0, align: 'top', duration: 1500})}><img className="navbar-brand-image" src={process.env.PUBLIC_URL+"images/logo.png"}/>TOP SHELF LLC</a> 
+          <a href="#home" className="navbar-brand" onClick={() => scrollToComponent(this.Home, { offset: 0, align: 'top', duration: 1500})}><img className="navbar-brand-image" src={process.env.PUBLIC_URL+"/images/logo.png"}/>TOP SHELF LLC</a> 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" className="ml-auto"/>
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
