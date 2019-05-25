@@ -10,7 +10,7 @@ export class Home extends Component {
             <div className="landing-text">
                 <h1 className="massive">TOP SHELF LLC</h1>
                 <h3>On Time, On Task, On the Move</h3>
-                <div className="explore"><a href="#about-us-block" className="btn btn-secondary btn-lg js-scroll-trigger" onClick={() => scrollToComponent(this.About, { offset: 770, align: 'top', duration: 1500})}>What do we offer</a></div>
+                <div className="explore"><a href="#about-us-block" className="btn btn-secondary btn-lg js-scroll-trigger" onClick={() => scrollToComponent(this.About, { offset: 730, align: 'top', duration: 1500})}>What do we offer</a></div>
             </div>
             <Media query="(max-width: 425px)">
           {matches =>
