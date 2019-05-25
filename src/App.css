@@ -80,7 +80,7 @@ button:focus {
     background-image: url('./components/Navbar/img/topbar.jpeg');
     background-size: cover;
     text-align: center;
-    margin-top:35px
+    margin-top:30px
   }
   .navbar-collapse a {
     margin-top: 5px;

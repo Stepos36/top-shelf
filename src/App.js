@@ -23,7 +23,7 @@ class App extends React.Component {
             <Nav className="ml-auto">
               <Nav.Link className="nav-link js-scroll-trigger" href="#home" onClick={() => scrollToComponent(this.Home, { offset: 0, align: 'top', duration: 1500})}>Home</Nav.Link>
               <Nav.Link className="nav-link js-scroll-trigger" href="#about-us-block" onClick={() => scrollToComponent(this.About, { offset: -70, align: 'top', duration: 1500})}>About us</Nav.Link>
-              <Nav.Link className="nav-link js-scroll-trigger" href="#pricing" onClick={() => scrollToComponent(this.Pricing, { offset: -130, align: 'top', duration: 1500})}>Pricing</Nav.Link>
+              <Nav.Link className="nav-link js-scroll-trigger" href="#pricing" onClick={() => scrollToComponent(this.Pricing, { offset: -110, align: 'top', duration: 1500})}>Pricing</Nav.Link>
               <Nav.Link className="nav-link js-scroll-trigger" href="#contacts" onClick={() => scrollToComponent(this.Contacts, { offset: 0, align: 'top', duration: 1500})}>Contacts</Nav.Link>
             </Nav>
           </Navbar.Collapse>
