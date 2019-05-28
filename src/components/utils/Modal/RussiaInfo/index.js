@@ -130,17 +130,16 @@ export class Russia_info extends Component {
 <p className="p1"><span className="s1">The minimum weight is 5 lb. Maximum weight 66 lb. The standard box size is 24x18x18 inches. The maximum length of the parcel is 55 inches (140 cm). The dimensions of the box according to the formula 2W + 2H + L should not exceed 270 cm (106 inches).</span></p>
 <ul>
 	<li>Maximum recommended value – $650</li>
-	<li>All parcels are insured for 60$ free of<br/>
+	<li>All parcels are insured for 60$ free of charge.
 		Optionally the customer can insure the full value of the parcel, which cost 3% of the additional insured value.</li>
-	<li>Storage of your parcels in our warehouse up to 45 days is <strong>FREE</strong> of charge.</li>
 </ul>
-<ul>
+{/* <ul>
 	<li>photo of incoming packages,</li>
 	<li>weighing of incoming parcels;</li>
 	<li>automatic invoicing,</li>
 	<li>payment of invoices through your account (cabinet),<br/>
 		Prices for additional services are indicated by option</li>
-</ul>
+</ul> */}
 <p>To calculate the cost of shipping to another country use special form on our site or contact our managers in any comfortable way.</p>
       </div>
     )

@@ -59,9 +59,9 @@ export class Pricing extends Component {
                 <div className="floatIn">We deliver to</div>
                 <div className="pricing-block pricing text-center">
                     {this.state.countries.map(country => (
-                        <div className="card country-card view overlay zoom" onClick={() => this.setState({ modalShow: true, country: country.name, info: country.info })} >
+                        <div key={country.name} className="card country-card view overlay zoom" onClick={() => this.setState({ modalShow: true, country: country.name, info: country.info })} >
                                     <div className="card-body">
-                                        <img className="img-fluid" src={country.image}/>
+                                        <img alt={country.name} className="img-fluid" src={country.image}/>
                                         <div className="project-name mask flex-center rgba-black-strong">
                                             <h3 className="text-truncate">{country.name}</h3>
                                         </div>

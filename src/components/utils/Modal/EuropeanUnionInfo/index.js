@@ -141,16 +141,15 @@ export class EuropeanUnionInfo extends Component {
 	<li>Maximum weight for parcel to Slovenia shipped by sea - 100 lb (45 kg)</li>
 	<li>The cost of a parcel to Poland weight up to 5 lb (2.3 kg) - $25</li>
 	<li>All parcels are insured for 60$ free of charge</li>
-	<li>Storage of your parcels in our warehouse up to 45 days is FREE of charge</li>
 </ul>
-<p>Also FREE of charge such services:</p>
+{/* <p>Also FREE of charge such services:</p>
 <ul>
 	<li>photo of incoming packages,</li>
 	<li>weighing of incoming parcels,</li>
 	<li>automatic invoicing,</li>
 	<li>payment of invoices through your account (cabinet),<br/>
 		Prices for additional services are indicated by option</li>
-</ul>
+</ul> */}
 <p>To calculate the cost of shipping to another country use special form on our site or contact our managers in any comfortable way.</p>
       </div>
     )

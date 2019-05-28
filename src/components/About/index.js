@@ -9,7 +9,7 @@ export class About extends Component {
         <div className="container">
             <div className="row">
                 <div className="col-sm-6 text-center about-us">
-                    <h2><a name="about-me"></a>About us</h2>
+                    <h2>About us</h2>
                     <p className="lead">At TOP SHELF LLC, we believe in providing the best customer service. After spending over a decade in the hospitality industry we have learned to listen diligently to our customers and own their problems. We thrive to provide exceptional services and aim to exceed your expectations. We take pride in what we do and are happy to share our success with you!
                     </p>
                     <p className="lead"> We thrive to provide exceptional services and aim to exceed your expectations. We take pride in what we do and are happy to share our success with you! 

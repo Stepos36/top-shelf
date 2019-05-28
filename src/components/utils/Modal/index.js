@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import './style.css'
 
 
-class CountryModal extends React.Component {
+class CountryModal extends Component {
     render() {
       return (
         <Modal

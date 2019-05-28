@@ -9,15 +9,15 @@ import Forbidden from './components/Forbidden';
 import Home from './components/Home';
 import Pricing from './components/Pricing';
 import scrollToComponent from 'react-scroll-to-component';
-import {Navbar, NavDropdown, Nav} from 'react-bootstrap'
+import {Navbar, Nav} from 'react-bootstrap'
 
-class App extends React.Component {
+class App extends Component {
 
   render() {
   return (
     <div className="App">
         <Navbar collapseOnSelect expand="lg" fixed="top">
-          <a href="#home" className="navbar-brand" onClick={() => scrollToComponent(this.Home, { offset: 0, align: 'top', duration: 1500})}><img className="navbar-brand-image" src={process.env.PUBLIC_URL+"/images/logo.png"}/>TOP SHELF LLC</a> 
+          <a href="#home" className="navbar-brand" onClick={() => scrollToComponent(this.Home, { offset: 0, align: 'top', duration: 1500})}><img alt="logo" className="navbar-brand-image" src={process.env.PUBLIC_URL+"/images/logo.png"}/>TOP SHELF LLC</a> 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" className="ml-auto"/>
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
