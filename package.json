@@ -1,7 +1,6 @@
 {
   "name": "top-shelf",
   "version": "0.1.0",
-  "homepage": "https://nelasov.me/top-shelf",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -11,6 +10,7 @@
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
     "react-fontawesome": "^1.6.1",
+    "react-media": "^1.9.2",
     "react-scripts": "3.0.1",
     "react-scroll-to-component": "^1.0.2"
   },
