@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/top-shelf/static/css/main.7f40578a.chunk.css",
-    "main.js": "/top-shelf/static/js/main.4247a2e1.chunk.js",
-    "main.js.map": "/top-shelf/static/js/main.4247a2e1.chunk.js.map",
-    "runtime~main.js": "/top-shelf/static/js/runtime~main.fe843264.js",
-    "runtime~main.js.map": "/top-shelf/static/js/runtime~main.fe843264.js.map",
-    "static/css/2.97a4fefb.chunk.css": "/top-shelf/static/css/2.97a4fefb.chunk.css",
-    "static/js/2.8057bcc1.chunk.js": "/top-shelf/static/js/2.8057bcc1.chunk.js",
-    "static/js/2.8057bcc1.chunk.js.map": "/top-shelf/static/js/2.8057bcc1.chunk.js.map",
-    "index.html": "/top-shelf/index.html",
-    "precache-manifest.acbe89df273555542aea04eda950e5a6.js": "/top-shelf/precache-manifest.acbe89df273555542aea04eda950e5a6.js",
-    "service-worker.js": "/top-shelf/service-worker.js",
-    "static/css/2.97a4fefb.chunk.css.map": "/top-shelf/static/css/2.97a4fefb.chunk.css.map",
-    "static/css/main.7f40578a.chunk.css.map": "/top-shelf/static/css/main.7f40578a.chunk.css.map",
-    "static/media/mdb.css": "/top-shelf/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/top-shelf/static/media/fa-solid-900.f14c3b2f.ttf",
-    "static/media/style.css": "/top-shelf/static/media/topbar.dfc0f0b4.jpeg"
+    "main.css": "/static/css/main.e2975f34.chunk.css",
+    "main.js": "/static/js/main.438f08ed.chunk.js",
+    "main.js.map": "/static/js/main.438f08ed.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.dc44ea42.chunk.css": "/static/css/2.dc44ea42.chunk.css",
+    "static/js/2.32ffc2c6.chunk.js": "/static/js/2.32ffc2c6.chunk.js",
+    "static/js/2.32ffc2c6.chunk.js.map": "/static/js/2.32ffc2c6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c2afa41c1e584aaa771de550210ac9f6.js": "/precache-manifest.c2afa41c1e584aaa771de550210ac9f6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.dc44ea42.chunk.css.map": "/static/css/2.dc44ea42.chunk.css.map",
+    "static/css/main.e2975f34.chunk.css.map": "/static/css/main.e2975f34.chunk.css.map",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/style.css": "/static/media/topbar.dfc0f0b4.jpeg"
   }
 }
